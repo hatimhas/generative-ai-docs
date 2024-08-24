@@ -1,0 +1,49 @@
+[08/23/2024 19:54:58 PDT][UID 402b0cb2-61c4-11ef-b1b6-e4aaea9b96c3]
+# what is ui
+
+Gemini is not able to answer this question at the moment. Rephrase the question and try asking again.
+
+Answerable probability: 0.0
+
+[08/23/2024 19:55:20 PDT][UID 4d0be848-61c4-11ef-b1b6-e4aaea9b96c3]
+# flutter
+
+Gemini is not able to answer this question at the moment. Rephrase the question and try asking again.
+
+Answerable probability: 0.0
+
+[08/23/2024 20:03:44 PDT][UID 79ad8b6c-61c5-11ef-b1b6-e4aaea9b96c3]
+# flutter
+
+The flutter CLI tool (flutter/bin/flutter) is how developers
+(or IDEs on behalf of developers) interact with Flutter.
+
+Answerable probability: 0.5667603015899658
+
+[08/23/2024 20:04:04 PDT][UID 856d2656-61c5-11ef-b1b6-e4aaea9b96c3]
+# Who is the target user of the Flutter CLI tool?
+
+The target user of the Flutter CLI tool is developers.
+
+Answerable probability: 0.9535378813743591
+
+[08/23/2024 20:04:59 PDT][UID a5fd0db4-61c5-11ef-b1b6-e4aaea9b96c3]
+# what is in flutter sdk
+
+The Flutter SDK has the packages and command-line tools that you need to develop Flutter apps across platforms.
+The following is available through the Flutter SDK:
+
+Dart SDK
+Heavily optimized, mobile-first 2D rendering engine with
+  excellent support for text
+Modern react-style framework
+Rich set of widgets implementing Material Design and iOS styles
+APIs for unit and integration tests
+Interop and plugin APIs to connect to the system and 3rd-party SDKs
+Headless test runner for running tests on Windows, Linux, and Mac
+Dart DevTools for testing, debugging, and profiling your app
+flutter and dart command-line tools for creating, building, testing,
+  and compiling your apps
+
+Answerable probability: 0.9999970197677612
+
